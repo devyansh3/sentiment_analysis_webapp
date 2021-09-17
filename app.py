@@ -11,7 +11,7 @@ st.sidebar.title("Sentiment analysis of tweets about US Airlines")
 st.markdown("This application is a Streamlit dashboard to analyze the sentiment of Tweets 🐦")
 st.sidebar.markdown("This application is a Streamlit dashboard to analyze the sentiment of Tweets 🐦")
 
-DATA_URL =("C:/Users/HP/OneDrive/Desktop/tweets/Tweets.csv")
+DATA_URL =("Tweets.csv")
 
 
 @st.cache(persist=True)
